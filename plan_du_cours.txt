@@ -1,0 +1,25 @@
+APPRENDRE PYTHON 
+
+PARTIE PREMIERE : LA PROGRAMATION PROCEDURALE 
+   1. la declaration et l'affectation des variables en python 
+   2. les boucles et les conditions,.....
+   3. les fonctions(avec paramettre et sans paramettres)
+   LES COLLECTIONS EN PYTHON 
+       a. les listes 
+       b. les tuples 
+       c. les dictionnaire(tres important)
+
+DEUXIEME PARTIE : LA PROGRAMATION ORIENTEE OBJET EN PYTHON 
+    1. les classes
+    2. les objets 
+    3.l'encapsulation
+    4. l'heritage 
+    5. le polymorphisme 
+    6. l'abstraction 
+    7. la composition 
+    8. les dunders(double underscores)
+    9. les dataclasses 
+
+
+TROISIEME PARTIE : LA FRAMEWORK : DJANGO 
+   ...
