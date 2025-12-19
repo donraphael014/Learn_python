@@ -8,6 +8,7 @@ PARTIE PREMIERE : LA PROGRAMATION PROCEDURALE
        a. les listes 
        b. les tuples 
        c. les dictionnaire(tres important)
+================== terminé déjà ===========================
 
 DEUXIEME PARTIE : LA PROGRAMATION ORIENTEE OBJET EN PYTHON 
     1. les classes
