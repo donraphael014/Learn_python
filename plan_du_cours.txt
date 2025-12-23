@@ -18,9 +18,9 @@ DEUXIEME PARTIE : LA PROGRAMATION ORIENTEE OBJET EN PYTHON
     5. le polymorphisme 
     6. l'abstraction 
     7. la composition 
-    8. les dunders(double underscores)
+    8. les dunders(double underscores) 
     9. les dataclasses 
 
-
+la partie la plus importante
 TROISIEME PARTIE : LA FRAMEWORK : DJANGO 
    ...

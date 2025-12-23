@@ -1,4 +1,5 @@
 class Personne:
+    #classe personne pour bien apprendre l'hritage et polymorphisme qui sera instancier dans main.py
     def __init__(self,nom,prenom,age):
         self.nom = nom
         self.prenom = prenom
