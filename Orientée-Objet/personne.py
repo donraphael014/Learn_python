@@ -1,3 +1,6 @@
+from tkinter.filedialog import Open
+
+
 class Personne:
     #classe personne pour bien apprendre l'hritage et polymorphisme qui sera instancier dans main.py
     def __init__(self,nom,prenom,age):
@@ -9,4 +12,15 @@ class Personne:
         print(" Je m'appelle :")
         print("Nom : ", self.nom)
         print("Prenom : ",self.prenom)
+        print("Age : ", self.age)
+
+    def __str__(self):
+        print("Nom : ", self.nom)
+        print("Prenom : ", self.prenom)
+        print("Age : ", self.age)
+
+    def __repr__(self):
+        print("")
+        print("Nom : ", self.nom)
+        print("Prenom : ", self.prenom)
         print("Age : ", self.age)

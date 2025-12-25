@@ -1,0 +1,3 @@
+bonjour je suis blaise
+ça c'est dans un ficher concrete apparement je viens de visualiser un document
+dans le language python
